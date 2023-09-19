@@ -1,1 +1,3 @@
-# QR-Cod
+##  QR-Cod 📜
+
+<img src = "/image/">
